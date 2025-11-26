@@ -22,7 +22,7 @@ Using the dataset, we perform:
 * **Model Comparison Report**
 * Recommendations to improve marketing effectiveness
 
----
+
 
 # Project Objectives
 
@@ -49,7 +49,7 @@ Provide actionable recommendations to:
 * Optimize communication strategy
 * Improve target customer selection
 
----
+
 
 # Dataset Information
 
@@ -64,9 +64,9 @@ The dataset contains **41,188 records** and **20+ features** from phone-based ma
 * **campaign**, **pdays**, **previous**, **poutcome**
 * **y** – Target variable (Subscribed: *yes/no*)
 
----
 
-# ⚙️ Project Workflow
+
+# Project Workflow
 
 ### **1. Data Preprocessing**
 
@@ -105,7 +105,7 @@ We analyze:
 
 **Random Forest / XGBoost** generally performs best for this dataset with high recall and robust handling of categorical features.
 
----
+
 
 # Key Insights (EDA Summary)
 
@@ -114,7 +114,7 @@ We analyze:
 * **Duration** is the strongest predictor, but should not be used for real-time prediction.
 * Middle-aged customers (30–50 years) show higher interest in term deposits.
 
----
+
 
 # Recommendations for the Bank Marketing Team
 
@@ -124,7 +124,7 @@ We analyze:
 4. **Target specific age groups (30–50).**
 5. Avoid repeated calls — **higher number of contacts reduces conversion**.
 
----
+
 
 # Tech Stack Used
 
