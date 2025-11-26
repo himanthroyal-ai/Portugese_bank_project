@@ -1,13 +1,6 @@
 # Portugese_bank_project
 A machine learning project that analyzes Portuguese bank marketing data to predict term-deposit subscriptions and uncover customer insights.
-Here is a clean, professional **GitHub-ready project description** for your Portuguese Bank Marketing Prediction repository:
 
-
-# Portuguese Bank Marketing Prediction – README
-
-*A complete end-to-end Data Science project*
-
-This README is created following the style and structure of your attached project README .
 
 #  Project Overview
 
